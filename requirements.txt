@@ -1,0 +1,2 @@
+# Requires: obsolete-perhaps
+# (Not available on PyPI)
